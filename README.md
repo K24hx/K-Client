@@ -53,7 +53,7 @@ Generate the needed files for your preferred IDE.
 Here are some fabric mods that will make your life better
 
 ### [Multiconnect](https://github.com/Earthcomputer/multiconnect) or [ViaFabric](https://github.com/ViaVersion/ViaFabric)
-Mods that allows you to connect to any 1.8-1.18 server from a 1.18 client.
+Mods that allows you to connect to any 1.8-1.18 server from a 1.18 (or above) client.
 
 ### [Baritone](https://github.com/cabaletta/baritone)
 Baritone is a Minecraft AI that allows you to automate tasks such as walking, mining or building.
