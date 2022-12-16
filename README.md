@@ -6,48 +6,10 @@ Works on Fabric 1.19 and above (Probably 1.18 too, didn't test it).
 
 
 ## Installation
-### For normal people
+### For everyone (buildable version comming soon)
 
 Download the .jar file you can find in the releases. Then put the file into your mods folder.
 
-### For (1000 IQ) developers
-
-Download the branch with the version you want to work on.  
-Start A Command Prompt/Terminal in the main folder.  
-Generate the needed files for your preferred IDE.  
-
-***Eclipse***
-
-  On Windows:
-  > gradlew genSources eclipse
-  
-  On Linux:
-  > chmod +x ./gradlew  
-  >./gradlew genSources eclipse
-
-  Start a new workspace in eclipse.
-  Click File > Import... > Gradle > Gradle Project.
-  Select the Main folder.
-  
-***IntelliJ***
-
-  On Windows:
-  > gradlew genIdeaWorkspace
-  
-  On Linux:
-  > chmod +x ./gradlew  
-  >./gradlew genIdeaWorkspace
-
-  In idea click File > Open.
-  Select build.gradle in the main folder.
-  Select Open as Project.
-
-***Other IDE's***
-
-  Use [this link](https://fabricmc.net/wiki/tutorial:setup) for more information.
-  It should be pretty similar to the eclipse and idea setup.
-  
-  
 ## Recommended Mods
 
 Here are some fabric mods that will make your life better
