@@ -1,7 +1,7 @@
 
 # K CLIENT
 
-Private Bleachhack skid by K24h.
+Private BleachHack skid by K24h.
 Works on Fabric 1.19 and above (Probably 1.18 too, didn't test it).
 
 
